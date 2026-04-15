@@ -44,7 +44,7 @@ The goal is to create a scripting language that is easy to use, but strong enoug
 ## 📦 Example
 
 ```nexc
-let name = "Dylan"
+let name = "NexaWorldGames"
 let score = 5
 
 print("hello from NexC")
