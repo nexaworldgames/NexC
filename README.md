@@ -142,7 +142,7 @@ Contributions, ideas, and improvements are welcome.
 
 ## 📜 License
 
-This project is under active development. Licensing will be defined later.
+MIT License.
 
 ---
 
