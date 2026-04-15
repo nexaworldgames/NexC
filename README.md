@@ -1,4 +1,3 @@
-
 # NexC
 
 ## ⬇️ Download the Latest Release
@@ -7,11 +6,11 @@ Get the newest stable NexC version from the **Latest Release** before using the 
 
 ---
 
-NexC is a lightweight, Lua-inspired scripting language developed under **NexaWorldGames**. It is designed to be simple, fast, and practical, while being powerful enough to integrate with real systems.
+NexC is an original scripting language created under **NexaWorldGames**. It is designed to be simple, fast, practical, and built for real use.
 
 ## 🚀 About NexaWorldGames
 
-NexaWorldGames is focused on building modern infrastructure, automation systems, and hosting solutions. NexC is a core part of this ecosystem — created to power scripts, automation, and future tools.
+NexaWorldGames focuses on building modern infrastructure, automation systems, and hosting solutions. NexC is one of the projects in that ecosystem, created to power scripts, automation, and future tools.
 
 ---
 
