@@ -1,0 +1,5 @@
+try
+    let x = 1 / 0
+catch err
+    print(err)
+end

@@ -1,0 +1,8 @@
+import math
+import strings as s
+from files import exists as file_exists
+
+let text: string = "  NexC  "
+print(s.trim(text))
+print(math.sqrt(16))
+print(file_exists("main.nxc"))

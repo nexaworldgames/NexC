@@ -1,0 +1,7 @@
+function hello(name: string)
+    print("hello " + name)
+end
+
+function add(a: number, b: number): number
+    return a + b
+end

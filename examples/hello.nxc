@@ -1,0 +1,19 @@
+-- NexC 1.3.0 hello
+let name: string = "NexaWorldGames"
+let score: int = 5
+
+print("hello from NexC " + version)
+print(name)
+
+if score > 3 then
+    print("score is good")
+else
+    print("score is low")
+end
+
+function greet(who: string): string
+    print("hi " + who)
+    return "done"
+end
+
+greet("world")
