@@ -1,4 +1,4 @@
-# NexC
+# NexC DONT USE FOR PROJECTS YET. THIS IS NOT READY FOR PROJECTS!!
 
 ## ⬇️ Download the Latest Release
 
